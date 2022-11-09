@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /qgis/index.html
+  - source: /qgis2web_2022_10_31-00_21_44_533311/index.html
     destination: /var/www/html/
 hooks:
   BeforeInstall:
